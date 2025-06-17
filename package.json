@@ -1,0 +1,38 @@
+{
+  "name": "merkle_tree_demo",
+  "version": "1.0.0",
+  "description": "A demonstration of Merkle Tree implementation with Next.js frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "merkle-tree",
+    "blockchain",
+    "cryptography"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.10",
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.4.21",
+    "jest": "latest",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.10",
+    "ts-jest": "latest",
+    "typescript": "latest"
+  }
+}
